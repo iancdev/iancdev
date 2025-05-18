@@ -7,7 +7,7 @@ I'm a full-stack developer with a focus on sleek, interactive web systems—espe
 ## 🛠 What I'm Building
 
 ### 🎨 Memory Color 3D Print Studio
-VP of Engineering
+Head of Engineering and Operations
 
 I lead software, both front-end and back-end, to bring memories into real life with 3D figurines. From self-service kiosk-like webapps to ultra-optimized checkout flows, I've designed and created systems to bring the user experience to the next level.  
 🔹 Next.js + Tailwind  
