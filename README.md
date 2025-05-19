@@ -52,9 +52,17 @@ I lead software, both front-end and back-end, to bring memories into real life w
 
 <div align="center">
 
-<img height=170 width="33%" src="https://streak-stats.demolab.com?user=iancdev&theme=github-dark-blue&card_width=325&card_height=170&hide_total_contributions=true" alt="GitHub Streak" />
-<img height=170 width="33%" src="https://github-readme-stats-three-psi-58.vercel.app/api?username=iancdev&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&card_height=170" alt="Ian's GitHub Stats" />
-<img height=170 width="33%" src="https://github-readme-stats-three-psi-58.vercel.app/api/top-langs/?username=iancdev&layout=compact&theme=github_dark&card_height=170" alt="Top Languages" />
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=iancdev&theme=github-dark-blue&card_width=325&card_height=170&hide_total_contributions=true&hide_border=true" height="170" alt="GitHub Streak"></td>
+    <td><img src="https://github-readme-stats-three-psi-58.vercel.app/api?username=iancdev&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&card_height=170&hide_border=true" height="170" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-stats-three-psi-58.vercel.app/api/top-langs/?username=iancdev&layout=compact&theme=github_dark&card_height=170&hide_border=true" height="170" alt="Top Languages"></td>
+  </tr>
+</table>
+
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iancdev&theme=github-dark&hide_border=false" alt="GitHub Activity Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iancdev&theme=github-dark&hide_border=false" alt="GitHub Activity Graph">
+
 </div>
+
