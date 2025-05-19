@@ -50,9 +50,9 @@ I lead software, both front-end and back-end, to bring memories into real life w
 
 ## 📊 GitHub Stats
 
-![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iancdev&show_icons=true&theme=radical&hide=stars&hide_title=true)
+![Ian's GitHub Stats](https://github-readme-stats-three-psi-58.vercel.app/api?username=iancdev&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iancdev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-three-psi-58.vercel.app/api/top-langs/?username=iancdev&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iancdev&theme=radical&hide_border=true)
 
